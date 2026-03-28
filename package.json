@@ -1,6 +1,6 @@
 {
     "name": "@jissp/metadata-scanner",
-    "version": "0.0.3",
+    "version": "0.0.4",
     "description": "NestJS-based Metadata Scanner Utility",
     "author": "jissp <jisspant@gmail.com>",
     "private": false,
